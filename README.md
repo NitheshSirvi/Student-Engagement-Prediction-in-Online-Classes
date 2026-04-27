@@ -22,11 +22,13 @@ Download the code to your local machine.
 Bash
 git clone https://github.com/YourUsername/YourRepositoryName.git
 cd YourRepositoryName
+
 Step 2: Create a Virtual Environment (venv)
 We need to create a fresh, empty container to hold the project's libraries. Run this command in your terminal:
 
 Bash
 python -m venv venv
+
 Step 3: Activate the Virtual Environment
 You must activate the environment before installing anything. The command depends on your operating system:
 
